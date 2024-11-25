@@ -23,7 +23,7 @@ Behold our amazing *list of hackers* :
 20. hogei
 21. hogeita bat
 21. hogeita bi
-23. hogeita hiru
+23. zuazo
 24. hogeita lau
 25. hogeita bost
 26. hogeita sei
