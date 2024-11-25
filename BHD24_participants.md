@@ -30,5 +30,5 @@ Behold our amazing *list of hackers* :
 27. hogeita zazpi
 28. hogeita zortzi
 29. hogeita bederatzi
-30. hogeita hamar
+30. Ekain Arrieta
 31. hogeita hamaika 
