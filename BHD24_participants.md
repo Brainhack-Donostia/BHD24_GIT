@@ -29,6 +29,6 @@ Behold our amazing *list of hackers* :
 26. hogeita sei
 27. hogeita zazpi
 28. hogeita zortzi
-29. hogeita bederatzi
+29. Alex Tabas
 30. hogeita hamar
 31. hogeita hamaika 
