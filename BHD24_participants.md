@@ -6,7 +6,7 @@ Behold our amazing *list of hackers* :
 3. hiru
 4. lau
 5. bost
-6. sei
+6. clementine
 7. zazpi
 8. zortzi
 9. bederatzi
@@ -18,7 +18,7 @@ Behold our amazing *list of hackers* :
 15. hamabost
 16. hamasei
 17. hamazazpi
-18. hamazortzi
+18. pia
 19. hemeretzi
 20. hogei
 21. hogeita bat
