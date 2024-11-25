@@ -1,7 +1,7 @@
 # BrainHack Donostia 2024!
 
 Behold our amazing *list of hackers* :
-1. bat
+1. Noemi
 2. bi
 3. hiru
 4. lau
